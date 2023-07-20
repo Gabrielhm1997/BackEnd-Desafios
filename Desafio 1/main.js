@@ -1,7 +1,7 @@
 class ProductManager {
     constructor() {
         this.products = [],
-        this.idCount = 1
+            this.idCount = 1
     }
 
     addProduct = (title, description, price, thumbnail, code, stock) => {
@@ -26,7 +26,7 @@ class ProductManager {
         } else {
             console.log("Falta 1 o mas Valores del producto");
         }
-        
+
     }
 
     getProducts = () => {
@@ -48,15 +48,15 @@ class ProductManager {
 class Product {
     constructor(title, description, price, thumbnail, code, stock) {
         this.title = title,
-        this.description = description,
-        this.price = price,
-        this.thumbnail = thumbnail,
-        this.code = code,
-        this.stock = stock,
-        this.id = null
+            this.description = description,
+            this.price = price,
+            this.thumbnail = thumbnail,
+            this.code = code,
+            this.stock = stock,
+            this.id = null
     }
 
-    setId (id) {
+    setId(id) {
         this.id = id
     }
 }
