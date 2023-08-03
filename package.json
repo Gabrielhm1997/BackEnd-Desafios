@@ -1,3 +1,21 @@
 {
-    "type": "module"
+  "name": "desafios--gabriel-navarro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "app": "node src/App.js",
+    "dev": "nodemon src/App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }

@@ -1,0 +1,20 @@
+[
+{"title":"Bombom Palito","description":"Palito Bombom Helado x 1U","price":350,"thumbnail":"/img/palito-bombom.jpg","code":"BombomPalito9354","stock":100,"id":1},
+{"title":"Palitos Frutales","description":"Palito Frutal x 1U","price":100,"thumbnail":"/img/palito-frutales.jpg","code":"PalitosFrutales9935","stock":100,"id":2},
+{"title":"Caripela Chocolate","description":"Palito Caripela Chocolate x 1U","price":250,"thumbnail":"/img/palito-caripelachoco.jpg","code":"CaripelaChocolate96223","stock":100,"id":3},
+{"title":"Caripela Frutilla","description":"Palito Caripela Frutilla x 1U","price":200,"thumbnail":"/img/palito-caripelafrutilla.jpg","code":"CaripelaFrutilla80170","stock":100,"id":4},
+{"title":"Dulce de Leche","description":"Palito Dulce de Leche x 1U","price":300,"thumbnail":"/img/palito-dulceDeLeche.jpg","code":"DulcedeLeche60014","stock":100,"id":5},
+{"title":"Magic Frutilla","description":"Palito Magic Frutilla x 1U","price":400,"thumbnail":"/img/palito-magicFrutilla.jpg","code":"MagicFrutilla69958","stock":100,"id":6},
+{"title":"Bon o Bon","description":"Balde 1Lt Bon o Bon","price":850,"thumbnail":"/img/balde-BonOBon.jpg","code":"BonoBon23370","stock":100,"id":7},
+{"title":"Cadbury","description":"Balde 1Lt Cadbury","price":1000,"thumbnail":"/img/balde-Cadbury.jpg","code":"Cadbury34218","stock":100,"id":8},
+{"title":"Cofler Dulce de Leche","description":"Balde 1Lt Cofler Dulce de Leche","price":700,"thumbnail":"/img/balde-coflerDulceleche.jpg","code":"CoflerDulcedeLeche86260","stock":100,"id":9},
+{"title":"Tentacion Americana","description":"Balde 1Lt Tentación Americana","price":550,"thumbnail":"/img/balde-tentacionAmericana.jpg","code":"TentacionAmericana66415","stock":100,"id":10},
+{"title":"Tentacion Chocolate","description":"Balde 1Lt Tentación Chocolate","price":500,"thumbnail":"/img/balde-tentacionChocolate.jpg","code":"TentacionChocolate30977","stock":100,"id":11},
+{"title":"Tentacion Menta Granizada","description":"Balde 1Lt Tentación Menta Granizada","price":600,"thumbnail":"/img/balde-tentacionMenta.jpg","code":"TentacionMentaGranizada21650","stock":100,"id":12},
+{"title":"Banana Split","description":"Postre Banana Split x 1Kg","price":1500,"thumbnail":"/img/postre-bananaSplit.jpg","code":"BananaSplit49673","stock":100,"id":13},
+{"title":"Brownie","description":"Postre Brownie x 12U","price":1750,"thumbnail":"/img/postre-brownie.jpg","code":"Brownie40019","stock":100,"id":14},
+{"title":"Lemon Pie","description":"Postre Lemon Pie x 1Kg","price":1400,"thumbnail":"/img/postre-lemonPie.jpg","code":"LemonPie53785","stock":100,"id":15},
+{"title":"Oreo","description":"Postre Oreo x 1Kg","price":2000,"thumbnail":"/img/postre-oreo.jpg","code":"Oreo98251","stock":100,"id":16},
+{"title":"Rollo Helado","description":"Postre Rollo Helado x 1Kg","price":1500,"thumbnail":"/img/postre-rolloHelado.jpg","code":"RolloHelado76685","stock":100,"id":17},
+{"title":"Tofi","description":"Postre Tofi x 1Kg","price":2500,"thumbnail":"/img/postre-tofi.jpg","code":"Tofi47825","stock":100,"id":18}
+]

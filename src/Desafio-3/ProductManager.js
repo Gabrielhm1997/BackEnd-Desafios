@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs'
 
-class ProductManager {
+export class ProductManager {
     constructor(path) {
         this.path = path
     }
@@ -83,7 +83,7 @@ class ProductManager {
     }
 }
 
-class Product {
+export class Product {
     constructor(title, description, price, thumbnail, code, stock) {
         this.title = title
         this.description = description
@@ -99,44 +99,3 @@ class Product {
         return this.idIncrement
     }
 }
-
-//Hola tutor, el codigo comentado debajo es el que utilice para probar el programa
-
-// // Ruta Desafio-2/inventario.txt
-
-// const path = 'Desafio-2/inventory.txt' // Ruta
-
-// await fs.writeFile(path, '[]') // Reset del documento
-
-// // Instancia de ProductManager
-// const manager = new ProductManager(path)
-
-// // Prueba de getProducts
-// await manager.getProducts()
-//     .then(resolve => console.log(resolve))
-
-// // Prueba de addProduct
-// await manager.addProduct("Arroz", "Chino", "200", "imagen", "123asc", 250)
-
-// await manager.addProduct("Arroz", "Chino", "200", "imagen", "123asc", 250) //Copia del producto de arriba
-
-// await manager.addProduct("Pan", "Koreano", "300", "imagen", "123asd", 250)
-
-// await manager.getProducts()
-//     .then(resolve => console.log(resolve))
-
-// // Prueba de getProductByID
-// await manager.getProductByID(1)
-//     .then(resolve => console.log(resolve))
-
-// // Prueba de updateProduct
-// await manager.updateProduct(1, { title: "Fideos", price: 300 })
-
-// await manager.getProductByID(1)
-//     .then(resolve => console.log(resolve))
-
-// // Prueba de deleteProduct
-// await manager.deleteProduct(3)
-// await manager.deleteProduct(2)
-// await manager.getProducts()
-//     .then(resolve => console.log(resolve))

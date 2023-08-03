@@ -1,1 +1,0 @@
-[{"title":"Fideos","description":"Chino","price":300,"thumbnail":"imagen","code":"123asc","stock":250,"id":1}]
